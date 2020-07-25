@@ -18,9 +18,9 @@ Physical library collections are valuable and long-standing resources for knowle
 # Introduction
 The method that is used here is the OCR (Optical Character Recognition) which simply means the conversion of handwritten text images electrically into a format that can be editable and searchable. OCR is implemented in various fields like Banking, Healthcare, and other industrial applications. It can be done in many methods. Some of the methods to implement this OCR is using ANN (Artificial Neural Networks), CNN, KNN clustering and so on. In our case, we make use of ANN (Artificial Neural Network) i.e. BPA (Back Propagation Algorithm). The main objective of the proposed project is to implement OCR for smart library simulation.
 The specific observations are as follows:
-•	To scan the given hand-written documents.
-•	To apply OCR on the hand-written image.
-•	Use BPA and get the desired list of books in text form.
+-	To scan the given hand-written documents.
+-	To apply OCR on the hand-written image.
+-	Use BPA and get the desired list of books in text form.
 
 
 
