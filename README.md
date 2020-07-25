@@ -26,7 +26,7 @@ The specific objectives are as follows:
 
 # Methodology
 
-![Block-Diagram](images/blockdiagram.png)
+![Block-Diagram](Images/blockdiagram.png)
 
 ## 1. Data acquisition
 
@@ -49,8 +49,8 @@ In the testing process, the updated weights file was loaded and then sample engl
 
 After successful OCR implementation, a function was created to correctly segregate the hand-written book list and print its details on the MATLAB editor. The images below show the same.
 
-![input](images/handwritten_input.png)
-![output](images/matlab_output.png)
+![input](Images/handwritten_input.png)
+![output](Images/matlab_output.png)
 
 
 
