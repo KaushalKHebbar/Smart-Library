@@ -10,7 +10,7 @@ A smart-library prototype implmentation using Artificial Neural Networks program
 1. [Motivation](#motivation)  
 2. [Introduction](#introduction)
 3. [Methodology](#methodology)
-4. [Configuration](#configuration)
+4. [Final Output](#final-output)
 
  
 # Motivation
@@ -25,6 +25,8 @@ The specific objectives are as follows:
 
 
 # Methodology
+
+![Block-Diagram](images/blockdiagram.png)
 
 ## 1. Data acquisition
 
@@ -47,11 +49,11 @@ In the testing process, the updated weights file was loaded and then sample engl
 
 After successful OCR implementation, a function was created to correctly segregate the hand-written book list and print its details on the MATLAB editor. The images below show the same.
 
-![]()
-![]()
+![input](images/handwritten_input.png)
+![output](images/matlab_output.png)
 
 
-# Configuration
+
 
 
 
